@@ -1,0 +1,40 @@
+.main > button {
+  font-size: 30px;
+}
+
+.main {
+  width: 100%;
+  display:inline-block
+}
+
+.controls {
+  margin-top: 25%;
+  width: 19%;
+  margin-left:10px;
+  float: right;
+}
+
+.controls > form{
+  width: 100%;
+  float: right;
+}
+
+#save {
+  margin-left: 0px;
+}
+
+.add-btn {
+  width: 100%;
+  margin-top: 10px;
+  height: 40px;
+  font-weight: bold;
+  background-color: white;
+  border: 2px solid rgb(228, 223, 223);
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.mapContainer {
+  width: 80% !important;
+  float: left;
+}
